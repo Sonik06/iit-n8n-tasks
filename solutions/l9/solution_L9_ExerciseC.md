@@ -17,8 +17,8 @@ After that I saved and tested the workflow:
 ![Worflow overview](c6.jpg)
 
 Execution results:
-![Result 1](b7.jpg)
-![Result 2](b8.jpg)
+![Result 1](c7.jpg)
+![Result 2](c8.jpg)
 
 notes.txt file in my Codespace:
-![notes.txt](b9.jpg)
+![notes.txt](c9.jpg)
